@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">脚下地图</string>
+    <string name="lang_code">zh</string>
+    <string name="starting">正在准备地图…</string>
+
+    <string name="mode_explore">逛一逛</string>
+    <string name="mode_quiz">测验</string>
+    <string name="set_level">第 %1$d 级 · %2$s</string>
+    <string name="set_count">%1$d 处</string>
+    <string name="set_best">最佳 %1$d%% · %2$s</string>
+    <string name="set_no_best">还没有成绩</string>
+    <string name="not_standard">示意图，非标准地图，不含国界。影像 NASA Blue Marble，数据 Natural Earth。</string>
+
+    <string name="action_back">返回</string>
+    <string name="action_more">更多</string>
+    <string name="action_mute">静音</string>
+    <string name="action_unmute">打开声音</string>
+    <string name="action_pause">暂停</string>
+    <string name="step_line">一步 ≈ %1$s km · %2$s · 地图 %3$s m</string>
+    <string name="detail_world">细节：世界</string>
+    <string name="detail_level">细节：第 %1$d 级</string>
+    <string name="detail_region">细节：%1$s</string>
+    <string name="detail_global">这里是全球精度，精选区更清楚</string>
+    <string name="explore_hint">把地方拖进脚前的圈，或看着它捏一下</string>
+    <string name="stick_hint">扳机拖动 · 摇杆左右旋转 · 上下缩放</string>
+    <string name="rotate_left">向左转</string>
+    <string name="rotate_right">向右转</string>
+    <string name="zoom_out">缩小</string>
+    <string name="zoom_in">放大</string>
+    <string name="recenter">回到面前</string>
+    <string name="measure">量一量</string>
+    <string name="start_quiz">开始测验</string>
+
+    <string name="measure_from">起点 %1$s</string>
+    <string name="measure_from_pin">起点 图钉</string>
+    <string name="measure_km">实际约 %1$s km</string>
+    <string name="measure_map">地图上 %1$s m · 约 %2$s 步</string>
+    <string name="measure_hint">再把另一处拖进脚前的圈</string>
+    <string name="measure_again">再量一次</string>
+    <string name="measure_done">完成</string>
+
+    <string name="ready_title">第 %1$d 级 · %2$d 题 · 计时</string>
+    <string name="ready_mode">答题方式：%1$s</string>
+    <string name="answer_drag">拖到脚下</string>
+    <string name="answer_point">指一指</string>
+    <string name="ready_zoom">开始时会放大到 %1$s m</string>
+    <string name="play">开始</string>
+
+    <string name="ask_go">去</string>
+    <string name="ask_progress">%1$d / %2$d</string>
+    <string name="review_progress">错题 %1$d / %2$d</string>
+    <string name="ask_hint_drag">扳机拖动 · 摇杆旋转 · 停稳 0.8 秒作答</string>
+    <string name="ask_hint_point">看着答案扣扳机</string>
+    <string name="right">对了</string>
+    <string name="wrong_here">这里是 %1$s</string>
+    <string name="reveal">%1$s 在这里</string>
+    <string name="reveal_hint">把它拖进脚前的圈，就进下一题</string>
+    <string name="nowhere">这里没有题里的地方</string>
+    <string name="off_map">把地图拖回来，或点回到面前</string>
+    <string name="tag_paused">暂停</string>
+    <string name="chances">机会</string>
+
+    <string name="paused_line">暂停了 · %1$s · %2$s</string>
+    <string name="resume">继续</string>
+    <string name="restart">重来</string>
+    <string name="change_set">换题组</string>
+
+    <string name="new_best">新纪录</string>
+    <string name="review">错题再练（%1$d）</string>
+    <string name="again">再来一次</string>
+    <string name="all_right">全部一次答对</string>
+    <string name="misses_title">没一次答对的</string>
+    <string name="outcome_second">第 2 次</string>
+    <string name="outcome_third">第 3 次</string>
+    <string name="outcome_revealed">揭晓</string>
+    <string name="review_no_best">错题再练不记最好成绩</string>
+
+    <string name="menu_answer">答题方式</string>
+    <string name="menu_speak">念题</string>
+    <string name="menu_no_voice">这台设备没有语音</string>
+    <string name="lang_system">跟随系统</string>
+    <string name="lang_zh">中文</string>
+    <string name="lang_en">English</string>
+    <string name="lang_en_short">EN</string>
+    <string name="menu_floor">地面高度</string>
+    <string name="menu_exit">退出</string>
+
+    <string name="snack_floor">没找到地面，先用估计高度</string>
+    <string name="snack_lost">定位丢失，看看四周</string>
+    <string name="snack_max">已经是最大</string>
+    <string name="snack_min">已经是最小</string>
+
+    <string name="coach_explore">人不用动：扳机拖动地图，摇杆左右旋转、上下缩放</string>
+    <string name="coach_ask">把答案拖进脚前的圈，停稳就算答</string>
+    <string name="coach_ok">知道了</string>
+
+    <string name="blocked_title">空间能力不可用</string>
+    <string name="blocked_body">脚下地图需要在全空间里追踪头部位置。可以重试，或者退出。</string>
+    <string name="blocked_data">地图数据读不出来。</string>
+    <string name="action_exit">退出</string>
+    <string name="action_retry">重试</string>
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Floor Atlas</string>
+    <string name="lang_code">en</string>
+    <string name="starting">Getting the map ready…</string>
+
+    <string name="mode_explore">Explore</string>
+    <string name="mode_quiz">Quiz</string>
+    <string name="set_level">Level %1$d · %2$s</string>
+    <string name="set_count">%1$d places</string>
+    <string name="set_best">Best %1$d%% · %2$s</string>
+    <string name="set_no_best">No score yet</string>
+    <string name="not_standard">Sketch map, not a standard map; no borders. Imagery NASA Blue Marble, data Natural Earth.</string>
+
+    <string name="action_back">Back</string>
+    <string name="action_more">More</string>
+    <string name="action_mute">Mute</string>
+    <string name="action_unmute">Sound on</string>
+    <string name="action_pause">Pause</string>
+    <string name="step_line">One step ≈ %1$s km · %2$s · map %3$s m</string>
+    <string name="detail_world">detail: world</string>
+    <string name="detail_level">detail: level %1$d</string>
+    <string name="detail_region">detail: %1$s</string>
+    <string name="detail_global">Global detail here; featured areas are sharper</string>
+    <string name="explore_hint">Drag a place into the ring at your feet, or look at it and pinch</string>
+    <string name="stick_hint">Trigger to drag · stick left/right to turn · up/down to zoom</string>
+    <string name="rotate_left">Turn left</string>
+    <string name="rotate_right">Turn right</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="zoom_in">Zoom in</string>
+    <string name="recenter">Bring to me</string>
+    <string name="measure">Measure</string>
+    <string name="start_quiz">Start quiz</string>
+
+    <string name="measure_from">From %1$s</string>
+    <string name="measure_from_pin">From the pin</string>
+    <string name="measure_km">About %1$s km</string>
+    <string name="measure_map">%1$s m on the map · about %2$s steps</string>
+    <string name="measure_hint">Drag another place into the ring</string>
+    <string name="measure_again">Measure again</string>
+    <string name="measure_done">Done</string>
+
+    <string name="ready_title">Level %1$d · %2$d questions · timed</string>
+    <string name="ready_mode">Answer by: %1$s</string>
+    <string name="answer_drag">drag to your feet</string>
+    <string name="answer_point">point at it</string>
+    <string name="ready_zoom">The map grows to %1$s m when you start</string>
+    <string name="play">Start</string>
+
+    <string name="ask_go">Go to</string>
+    <string name="ask_progress">%1$d / %2$d</string>
+    <string name="review_progress">Miss %1$d / %2$d</string>
+    <string name="ask_hint_drag">Drag, turn, then hold still 0.8 s to answer</string>
+    <string name="ask_hint_point">Point at it and pull the trigger</string>
+    <string name="right">Correct</string>
+    <string name="wrong_here">This is %1$s</string>
+    <string name="reveal">%1$s is here</string>
+    <string name="reveal_hint">Drag it into the ring to go on</string>
+    <string name="nowhere">Nothing from this quiz here</string>
+    <string name="off_map">Drag the map back, or tap Bring to me</string>
+    <string name="tag_paused">Paused</string>
+    <string name="chances">Chances</string>
+
+    <string name="paused_line">Paused · %1$s · %2$s</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="change_set">Other sets</string>
+
+    <string name="new_best">New best</string>
+    <string name="review">Practice misses (%1$d)</string>
+    <string name="again">Play again</string>
+    <string name="all_right">All first try</string>
+    <string name="misses_title">Missed</string>
+    <string name="outcome_second">2nd try</string>
+    <string name="outcome_third">3rd try</string>
+    <string name="outcome_revealed">shown</string>
+    <string name="review_no_best">Practice runs do not count as a best</string>
+
+    <string name="menu_answer">Answer by</string>
+    <string name="menu_speak">Read questions aloud</string>
+    <string name="menu_no_voice">This device has no voice</string>
+    <string name="lang_system">Follow system</string>
+    <string name="lang_zh">中文</string>
+    <string name="lang_en">English</string>
+    <string name="lang_en_short">EN</string>
+    <string name="menu_floor">Floor height</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="snack_floor">No floor found yet, using an estimate</string>
+    <string name="snack_lost">Tracking lost, look around</string>
+    <string name="snack_max">That is the largest</string>
+    <string name="snack_min">That is the smallest</string>
+
+    <string name="coach_explore">You stay put: trigger drags the map, stick left/right turns it, up/down zooms</string>
+    <string name="coach_ask">Bring the answer into the ring at your feet; hold still and it counts</string>
+    <string name="coach_ok">Got it</string>
+
+    <string name="blocked_title">Spatial features unavailable</string>
+    <string name="blocked_body">Floor Atlas needs head tracking in full space. Try again, or exit.</string>
+    <string name="blocked_data">The map data could not be read.</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_retry">Retry</string>
+</resources>
